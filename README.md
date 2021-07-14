@@ -5,3 +5,4 @@
 - 🖥 iOS Developement student at Apple Developer Academy - PUCRS
 - 👨🏻‍🎓 Computer Science student at PUCRS
 - 👨🏻‍💻 Computer Technician by IFMS
+- 📧 E-mail: Igor.Vicente@edu.pucrs.br
