@@ -6,3 +6,4 @@
 - 👨🏻‍🎓 Computer Science student at PUCRS
 - 👨🏻‍💻 Computer Technician by IFMS
 - 📧 E-mail: Igor.Vicente@edu.pucrs.br
+- 🌐 LinkedIn: linkedin.com/in/igor--vicente
